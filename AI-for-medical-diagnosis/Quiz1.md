@@ -6,6 +6,7 @@ A. Inflexible models
 A. Oversampling negative results
 
 ## What is the total loss from the normal (non-mass) examples in this example dataset?
+[](https://github.com/Taiyou/AI-for-medicine-specialization/blob/master/AI-for-medical-diagnosis/dataset.png)
 A. 1.27
 
 ## What is the typical size of medical image dataset?
